@@ -48,8 +48,8 @@ Display the result.
 ## Program:
 
 ```
-NAME : PAVITHRA R
-REGISTER NO : 212222230106
+NAME : SANTHANA LAKSHMI 
+REGISTER NO : 212222240091
 ```
 ### I)Perform ROI from an image:
 ```
